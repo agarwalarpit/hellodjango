@@ -1,0 +1,4 @@
+hellodjango
+===========
+
+Practicing Django project
