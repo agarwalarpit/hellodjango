@@ -1,0 +1,7 @@
+
+envhd
+python-foreman-0.2.2.tar.gz
+*.pyc
+static
+.DS_Store
+.idea
